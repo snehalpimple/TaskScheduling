@@ -1,4 +1,8 @@
-# TaskScheduling
+# Task Scheduling
+
+## Energy and Performance-Aware Task Scheduling in a Mobile Cloud Computing Environment. 
+We can find reference of the algorithm in the research paper here 
+[https://ieeexplore.ieee.org/document/6973741](url)
 
 
 <img src="https://github.com/snehalpimple/TaskScheduling/blob/main/Slide2.PNG" width=60% height=60%>
